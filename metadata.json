@@ -1,6 +1,0 @@
-{
-  "name": "Employee KPI Performance and Management System",
-  "description": "Standalone Employee KPI Performance and Management System for DEV, QA, and PO departments with real-time score calculations, standalone database export/import, historical archives, and employee management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
